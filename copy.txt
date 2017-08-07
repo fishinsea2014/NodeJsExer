@@ -1,0 +1,8 @@
+this is a Json file.
+{
+[
+    a,
+    b,
+    c
+]
+}
